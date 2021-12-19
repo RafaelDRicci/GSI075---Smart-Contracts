@@ -12,7 +12,7 @@ Vai ser utilizado a linguagem [Solidity](https://docs.soliditylang.org/en/v0.8.1
 
 Durante a aula da terceira semana, foi apresentado o primeiro Smart Contract criado em Solidity, e utilizado com um script em Python. Foi criado uma contrato de leilão em que é leiloado um Token Simples
 
-A Primeira parte do exercício proposto, foi possibilidade de alterar a taxa de utilização do contrato por parte do dono do contrato. 
+A Primeira parte do exercício proposto, foi a possibilidade de alterar a taxa de utilização do contrato por parte do dono do contrato. 
 
 A Segunda parte é a possibilidade de recuperação do token pelo dono original, caso ocorra algum problema durante o leilão e o token não se perca 
 
