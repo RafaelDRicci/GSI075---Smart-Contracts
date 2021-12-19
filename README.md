@@ -1,6 +1,6 @@
 # GSI075 - Tópicos Especiais de Programação para Internet.
 
-Repositório criado para acompanha a Disciplina [GSI075](http://www.portal.facom.ufu.br/system/files/conteudo/gsi075_-_topicos_especiais_de_programacao_para_internet.pdf), cursando durando o segundo semestre de 2021 na [Universidade Federal de Uberlândia](https://ufu.br), pela [Faculdade de Computação](http://www.portal.facom.ufu.br), ministrada pelo Professor [Ivan Da Silva Sendin](http://www.portal.facom.ufu.br/pessoas/docentes/ivan-da-silva-sendin). 
+Repositório criado para acompanha a Disciplina [GSI075](http://www.portal.facom.ufu.br/system/files/conteudo/gsi075_-_topicos_especiais_de_programacao_para_internet.pdf), cursado no segundo semestre de 2021 na [Universidade Federal de Uberlândia](https://ufu.br), pela [Faculdade de Computação](http://www.portal.facom.ufu.br), ministrada pelo Professor [Ivan Da Silva Sendin](http://www.portal.facom.ufu.br/pessoas/docentes/ivan-da-silva-sendin). 
 
 No Repositório vai ser depositado códigos vistos durante as aulas e exercícios propostos. 
 
